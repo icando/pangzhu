@@ -2,11 +2,13 @@
 
 请关注微信公众号【胖竹同学】
 
+<img src="docs/images/扫码_搜索联合传播样式-标准色版.jpg" width="720">
+
 ### 使用方法
 
 直接在聊天框中输入提问即可。
 
-<img src="docs/images/找漏洞.jpg">
+<img src="docs/images/找漏洞.jpg" width="720">
 
 ## 关于胖竹同学
 
@@ -25,8 +27,8 @@
 
 微信：
 
-<img src="docs/images/微信码.jpg" width="500px">
+<img src="docs/images/微信码.jpg" width="360px">
 
 支付宝：
 
-<img src="docs/images/支付宝码.jpg" width="500px">
+<img src="docs/images/支付宝码.jpg" width="360px">

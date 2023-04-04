@@ -23,7 +23,11 @@
 * 【DONE】集成ChatGPT聊天功能，便捷地和ChatGPT对话
 * 【PEND】集成ChatGPT其他特性，如图片分析、语音翻译等等
 
-以上就是胖竹同学的一些想法和计划，寻找志同道合的同学一起实现。如果大家有什么想法或建议可以在 Issues 里留言登记，也可以通过邮件 icanner@hotmail.com 私信，一起交流，一起促进 AI 发展。
+以上就是胖竹同学的一些想法和计划，寻找志同道合的同学一起实现。如果大家有什么想法或建议，欢迎大家加入交流群：
+
+<img src="https://user-images.githubusercontent.com/3782832/229840281-0d7cdcf1-ff9d-4752-ba21-e6c82ec0f752.png" width="360px">
+
+或者可以在 Discussions 里讨论，也可以通过邮件 icanner@hotmail.com 私信，一起交流，一起促进 AI 发展。
 
 最后，如果你觉得【胖竹同学】对你有帮助，请多多支持胖竹同学，让胖竹同学持续运营下去~~~
 

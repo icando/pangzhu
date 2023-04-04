@@ -25,7 +25,7 @@
 
 以上就是胖竹同学的一些想法和计划，寻找志同道合的同学一起实现。如果大家有什么想法或建议，欢迎大家加入交流群：
 
-<img src="https://user-images.githubusercontent.com/3782832/229840281-0d7cdcf1-ff9d-4752-ba21-e6c82ec0f752.png" width="360px">
+<img src="docs/images/交流群.jpeg" width="360px">
 
 或者可以在 Discussions 里讨论，也可以通过邮件 icanner@hotmail.com 私信，一起交流，一起促进 AI 发展。
 
